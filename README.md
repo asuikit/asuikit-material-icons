@@ -13,7 +13,7 @@ Get vector icons on your website with asUIkit Material Icons 1000+. This compone
 
 
 * [Homepage](https://asuikit.com/material-design-icons) - asUIkit Material Icons 1000+
-* [Docs](https://asuikit.com/material-design-icons) - asUIkit Material Icons Guide
+* [Docs](https://asuikit.com/material-design-icons/get-started) - asUIkit Material Icons Guide
 * [Icons](https://asuikit.com/material-design-icons/all-icons) - asUIkit Material Icons Library
 
 ## Getting Started
